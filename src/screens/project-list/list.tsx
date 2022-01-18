@@ -19,7 +19,7 @@ export const List = ({list, users}: ListProps) => {
         <thead>
         <tr>
             <th>名称</th>
-            <th></th>
+            <th>负责人</th>
         </tr>
         </thead>
         <tbody>
